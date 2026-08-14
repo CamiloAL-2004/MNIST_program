@@ -23,7 +23,6 @@ The model takes `28 × 28` grayscale images as input and predicts the correspond
 # Next Steps
 
 - Implement a convolutional neural network (CNN)
-- Add a confusion matrix
 - Calculate precision, recall and F1-score
 - Analyse incorrectly classified digits
 - Compare different learning rates and optimizers
